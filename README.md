@@ -5,7 +5,7 @@
 ![Simulation](https://img.shields.io/badge/Simulation-8760h_vectorisee-FFB703)
 ![LPSP](https://img.shields.io/badge/Contrainte-LPSP_%E2%89%A4_5%25-success)
 
-> **Master 2 Genie Informatique — Analyse Numerique et Applications**  
+> **Master 1 Genie Informatique — Analyse Numerique et Applications**  
 > Universite Nangui Abrogoua, Abidjan, Cote d'Ivoire — 2025–2026  
 > Auteur : **Daouda Diallo**
 
@@ -119,7 +119,7 @@ pytest tests/ -v
 
 ## Contexte academique
 
-Projet realise dans le cadre du module **Analyse Numerique et Applications** du M2 GI,
+Projet realise dans le cadre du module **Analyse Numerique et Applications** du M1 GI,
 encadre par le corps enseignant de l'UNA Abidjan. La simulation 8760h est entierement
 vectorisee sous NumPy (< 0.1s). Toutes les methodes sont implementees from scratch,
 y compris Simpson, les splines 2D et l'identification LM du modele PV.
